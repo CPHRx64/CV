@@ -1,0 +1,49 @@
+/**Tag selectors**/
+body {
+  background-color: white;
+}
+
+h1 {
+  color: #ff5959;
+}
+
+h2 {
+  color: black;
+}
+
+
+
+hr {
+  background-color: white;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #233142;
+  border-width: 12px;
+  width: 7%;
+}
+
+img {
+  height: 120px;
+}
+
+table{
+  border-spacing: 10px;
+}
+
+/**Class selectors**/
+.banana {
+  background-color: white;
+}
+
+.pepega {
+  border-radius: 100%;
+}
+
+/**Id selectors**/
+#Uni {
+  color: #233142;
+}
+
+#Dep {
+  color: #233142;
+}
